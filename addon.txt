@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Metrostroi Pult"
+	"version"     "1"
+	"author_name" "cyberdream"
+	"author_url"  ""
+	"info"        ""
+	"override"    "0"
+}
